@@ -1,5 +1,80 @@
 [
+   {
+    "type": "recipe",
+    "result": "stick10",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 0,
+    "time": 1000,
+    "reversible": true,
+    "autolearn": true,
+    "components": [
+      [ [ "stick", 10 ], [ "2x4", 10 ] ],
+      [ [ "cordage_short", 1, "LIST" ], [ "filament", 25, "LIST" ] ]
+    ]
+   },
+   {
+    "type": "recipe",
+    "result": "stick20",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 0,
+    "time": 2000,
+    "reversible": true,
+    "autolearn": true,
+    "components": [
+      [ [ "stick", 20 ], [ "2x4", 20 ] ],
+      [ [ "cordage_short", 2, "LIST" ], [ "filament", 50, "LIST" ] ]
+    ]
+   },
+   {
+    "type": "recipe",
+    "result": "stick30",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 0,
+    "time": 3000,
+    "reversible": true,
+    "autolearn": true,
+    "components": [
+      [ [ "stick", 30 ], [ "2x4", 30 ] ],
+      [ [ "cordage_short", 3, "LIST" ], [ "filament", 75, "LIST" ] ]
+    ]
+  },
   {
+    "type": "recipe",
+    "result": "stick40",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 0,
+    "time": 4000,
+    "reversible": true,
+    "autolearn": true,
+    "components": [
+      [ [ "stick", 40 ], [ "2x4", 40 ] ],
+      [ [ "cordage_short", 4, "LIST" ], [ "filament", 100, "LIST" ] ]
+    ]
+   },
+   {
+    "type": "recipe",
+    "result": "stick50",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 0,
+    "time": 5000,
+    "reversible": true,
+    "autolearn": true,
+    "components": [
+      [ [ "stick", 50 ], [ "2x4", 50 ] ],
+      [ [ "cordage_short", 5, "LIST" ], [ "filament", 125, "LIST" ] ]
+    ]
+   },
+   {
     "type": "recipe",
     "result": "caltrops",
     "category": "CC_OTHER",
